@@ -1,0 +1,16 @@
+02:23:30 Worker rq:worker:a9d8996561e5429aa9bc8faf2be4357d: started, version 1.11.1
+02:23:30 Subscribing to channel rq:pubsub:a9d8996561e5429aa9bc8faf2be4357d
+02:23:30 *** Listening on workspace-development-frappe-bench:short, workspace-development-frappe-bench:default, workspace-development-frappe-bench:long...
+02:23:30 Cleaning registries for queue: workspace-development-frappe-bench:short
+02:23:30 Cleaning registries for queue: workspace-development-frappe-bench:default
+02:23:30 Cleaning registries for queue: workspace-development-frappe-bench:long
+02:24:38 Warm shut down requested
+02:24:38 Unsubscribing from channel rq:pubsub:a9d8996561e5429aa9bc8faf2be4357d
+02:28:03 Worker rq:worker:0dc3ed1d8b0d463ca628053846147d69: started, version 1.11.1
+02:28:03 Subscribing to channel rq:pubsub:0dc3ed1d8b0d463ca628053846147d69
+02:28:03 *** Listening on workspace-development-frappe-bench:short, workspace-development-frappe-bench:default, workspace-development-frappe-bench:long...
+03:35:03 Cleaning registries for queue: workspace-development-frappe-bench:short
+03:35:03 Cleaning registries for queue: workspace-development-frappe-bench:default
+03:35:03 Cleaning registries for queue: workspace-development-frappe-bench:long
+03:35:13 Warm shut down requested
+03:35:13 Unsubscribing from channel rq:pubsub:0dc3ed1d8b0d463ca628053846147d69
